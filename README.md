@@ -4,9 +4,8 @@
 
 <p>📚 Futuro desenvolvedor especializado em back-end</p>
 
-<a href="https://github.com/guihenry02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guihenry02&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guihenry02&repo=convoychat" />
-</a>
+<div align="center">
+  <a href="https://github.com/guihenry02">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guihenry02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihenry02&layout=compact&langs_count=7&theme=dracula"/>
+</div>
