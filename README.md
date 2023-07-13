@@ -2,7 +2,7 @@
 
 <p>📚 Estudando JavaScript, HTML5, CSS3 e react</p>
 
-<p>📚 amante de back-end também</p>
+<p>📚 Amante de back-end</p>
 
 <div align="left">
   <a href="https://github.com/guihenry02">
